@@ -18,7 +18,7 @@ import net.runelite.client.plugins.PluginDescriptor;
 
 @Slf4j
 @PluginDescriptor(
-	name = "Boss Bar Offset"
+	name = "Boss HP Bar Adjustments"
 )
 public class BossBarOffsetPlugin extends Plugin
 {
