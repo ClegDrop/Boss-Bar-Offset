@@ -1,2 +1,2 @@
-# Boss Health Bar Offset
-Drag the boss health bar to the desired position using the alt key. Then set a custom offset with the two parameters in the plugin.
+# Boss Bar Adjustment
+Minor plugin used to set the boss HP bar to the top of the screen when locked to top-middle position.
